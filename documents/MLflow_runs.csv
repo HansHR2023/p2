@@ -1,0 +1,243 @@
+Start Time,Duration,Run ID,Name,Source Type,Source Name,User,Status,activation,batch_size,data_samples,epochs,hidden_layers,loss_fn,lr,optimizer,sensor,epochLoss
+2023-04-25 15:39:14,8ms,81f1469f455147f990a014b773d58b88,"NN(Lidar) 265_265_, epochs: 200, lr: 0.1, batchsize: 16",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU_,16,Lidar5000.samples,200,265_265_,MSELoss(),0.1,"SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    lr: 0.1
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)",Lidar,NaN
+2023-04-25 15:38:30,8ms,aa62ee5eca384cbdaf3f9a68113b724d,"NN(Lidar) 265_265_, epochs: 200, lr: 0.01, batchsize: 16",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU_,16,Lidar5000.samples,200,265_265_,MSELoss(),0.01,"SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    lr: 0.01
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)",Lidar,NaN
+2023-04-25 15:37:56,8ms,877309124ee14d908f63f45245c0f6ef,"NN(Lidar) 265_265_, epochs: 200, lr: 0.01, batchsize: 16",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU_,16,Lidar5000.samples,200,265_265_,MSELoss(),0.01,"SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    lr: 0.01
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)",Lidar,NaN
+2023-04-25 15:34:41,7ms,7c9ba7b79bdd451ebaa9a083688b631c,"NN(Lidar) 265_265_, epochs: 200, lr: 0.01, batchsize: 16",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU_,16,Lidar5000.samples,200,265_265_,MSELoss(),0.01,"SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    lr: 0.01
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)",Lidar,194.73247803514377
+2023-04-25 15:12:50,7ms,761f15fce37042758f668a3d97f839ec,"NN(Lidar) 265_265_, epochs: 200, lr: 0.01, batchsize: 16",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU_,16,Lidar5000.samples,200,265_265_,MSELoss(),0.01,"SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    lr: 0.01
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)",Lidar,194.92282348242813
+2023-04-25 15:11:28,8ms,32b92dd1cade43aeaaf920f1e157944f,"NN(Lidar) 265_265_, epochs: 200, lr: 0.1, batchsize: 16",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU_,16,Lidar5000.samples,200,265_265_,MSELoss(),0.1,"SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    lr: 0.1
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)",Lidar,194.90335463258785
+2023-04-25 15:09:35,8ms,442cac0ecfa7445dbb08c65e7b6431ea,"NN(Lidar) 265_265_, epochs: 400, lr: 0.0001, batchsize: 256",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU_,256,Lidar5000.samples,400,265_265_,MSELoss(),0.0001,"SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    lr: 0.0001
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)",Lidar,190.652352142334
+2023-04-25 15:05:04,9ms,2555651ec28549338e1544c66b44c8a0,"NN(Lidar) 265_265_, epochs: 400, lr: 0.0001, batchsize: 16",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU_,16,Lidar5000.samples,400,265_265_,MSELoss(),0.0001,"SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    lr: 0.0001
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)",Lidar,190.08859441531732
+2023-04-25 15:03:52,8ms,8e48badbfbb641e8a7256dca462008ef,"NN(Lidar) 265_265_, epochs: 300, lr: 0.001, batchsize: 16",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU_,16,Lidar5000.samples,300,265_265_,MSELoss(),0.001,"SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    lr: 0.001
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)",Lidar,194.6880078727064
+2023-04-25 15:02:50,9ms,e4c80d97c4734d25990629a9adcba8be,"NN(Lidar) 265_265_, epochs: 200, lr: 0.01, batchsize: 16",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU_,16,Lidar5000.samples,200,265_265_,MSELoss(),0.01,"SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    lr: 0.01
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)",Lidar,195.0857631573662
+2023-04-25 14:33:05,7ms,ab8ee32abe4d4311aa8c9ad616539469,"NN(Lidar) 100_75_50_25_, epochs: 100, lr: 5e-05, batchsize: 25",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_ReLU_ReLU_ReLU_,25,Lidar5000.samples,100,100_75_50_25_,MSELoss(),5e-05,"SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    lr: 5e-05
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)",Lidar,190.5141306114197
+2023-04-25 14:27:07,7ms,5e971aaf3f5d45f09598cfdbc8c72ce2,"NN(Lidar) 100_75_50_25_, epochs: 100, lr: 5e-05, batchsize: 25",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_ReLU_ReLU_ReLU_,25,Lidar5000.samples,100,100_75_50_25_,MSELoss(),5e-05,"SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    lr: 5e-05
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)",Lidar,190.4958284378052
+2023-04-25 14:22:49,7ms,e03684a50aa64b9ca9ad886664c1fe64,"NN(Lidar) 100_75_50_25_, epochs: 500, lr: 5e-05, batchsize: 25",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_ReLU_ReLU_ReLU_,25,Lidar5000.samples,500,100_75_50_25_,MSELoss(),5e-05,"SGD (
+Parameter Group 0
+    dampening: 0
+    differentiable: False
+    foreach: None
+    lr: 5e-05
+    maximize: False
+    momentum: 0
+    nesterov: False
+    weight_decay: 0
+)",Lidar,91.59292594864965
+2023-04-25 14:02:18,7ms,d99da87a62494714a22595831007025d,"NN(Lidar) 256_256_, epochs: 200, lr: 0.01, batchsize: 16",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU,16,Lidar5000.samples,200,256_256_,MSELoss(),0.01,"Adagrad (
+Parameter Group 0
+    differentiable: False
+    eps: 1e-10
+    foreach: None
+    initial_accumulator_value: 0
+    lr: 0.01
+    lr_decay: 0
+    maximize: False
+    weight_decay: 0
+)",Lidar,76.325688208861
+2023-04-25 14:00:46,7ms,4e206a74a5c54ae6bb30db34b7720386,"NN(Lidar) 256_256_, epochs: 200, lr: 0.01, batchsize: 256",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU,256,Lidar5000.samples,200,256_256_,MSELoss(),0.01,"Adagrad (
+Parameter Group 0
+    differentiable: False
+    eps: 1e-10
+    foreach: None
+    initial_accumulator_value: 0
+    lr: 0.01
+    lr_decay: 0
+    maximize: False
+    weight_decay: 0
+)",Lidar,168.52299385070802
+2023-04-25 14:00:05,7ms,3b7276df89a44d1ab82d9cac81497c1c,"NN(Lidar) 256_256_, epochs: 200, lr: 0.01, batchsize: 64",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU,64,Lidar5000.samples,200,256_256_,MSELoss(),0.01,"Adagrad (
+Parameter Group 0
+    differentiable: False
+    eps: 1e-10
+    foreach: None
+    initial_accumulator_value: 0
+    lr: 0.01
+    lr_decay: 0
+    maximize: False
+    weight_decay: 0
+)",Lidar,134.50777338879018
+2023-04-25 13:41:48,7ms,950230eedc714da7a72788409434f4a1,"NN(Lidar) 64_64_, epochs: 400, lr: 0.01, batchsize: 256",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU,256,Lidar5000.samples,400,64_64_,MSELoss(),0.01,"Adagrad (
+Parameter Group 0
+    differentiable: False
+    eps: 1e-10
+    foreach: None
+    initial_accumulator_value: 0
+    lr: 0.01
+    lr_decay: 0
+    maximize: False
+    weight_decay: 0
+)",Lidar,172.42575302124024
+2023-04-25 13:40:48,7ms,e3a064577cc1464c9875130586d6f7de,"NN(Lidar) 64_64_, epochs: 200, lr: 0.5, batchsize: 256",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU,256,Lidar5000.samples,200,64_64_,MSELoss(),0.5,"Adagrad (
+Parameter Group 0
+    differentiable: False
+    eps: 1e-10
+    foreach: None
+    initial_accumulator_value: 0
+    lr: 0.5
+    lr_decay: 0
+    maximize: False
+    weight_decay: 0
+)",Lidar,179.44680213928223
+2023-04-25 13:39:16,8ms,892e48d830dc45ffa072ce8fbd6dd4b6,"NN(Lidar) 64_64_, epochs: 800, lr: 0.0001, batchsize: 256",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU,256,Lidar5000.samples,800,64_64_,MSELoss(),0.0001,"Adagrad (
+Parameter Group 0
+    differentiable: False
+    eps: 1e-10
+    foreach: None
+    initial_accumulator_value: 0
+    lr: 0.0001
+    lr_decay: 0
+    maximize: False
+    weight_decay: 0
+)",Lidar,185.32430000305175
+2023-04-25 13:36:19,8ms,787030780ce449dcb1801fba25bc213e,"NN(Lidar) 64_64_, epochs: 400, lr: 0.0001, batchsize: 256",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU,256,Lidar5000.samples,400,64_64_,MSELoss(),0.0001,"Adagrad (
+Parameter Group 0
+    differentiable: False
+    eps: 1e-10
+    foreach: None
+    initial_accumulator_value: 0
+    lr: 0.0001
+    lr_decay: 0
+    maximize: False
+    weight_decay: 0
+)",Lidar,184.68517951965333
+2023-04-25 13:35:31,7ms,f4d9b1a028d04a9688102584243d6389,"NN(Lidar) 64_64_, epochs: 300, lr: 0.001, batchsize: 256",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU,256,Lidar5000.samples,300,64_64_,MSELoss(),0.001,"Adagrad (
+Parameter Group 0
+    differentiable: False
+    eps: 1e-10
+    foreach: None
+    initial_accumulator_value: 0
+    lr: 0.001
+    lr_decay: 0
+    maximize: False
+    weight_decay: 0
+)",Lidar,180.69414463043213
+2023-04-25 13:31:15,6ms,bae2188fddee4856a9036f81aa70fae7,"NN(Lidar) 64_64_, epochs: 200, lr: 0.01, batchsize: 256",LOCAL,/home/pans/miniconda3/envs/miw/lib/python3.10/site-packages/ipykernel_launcher.py,pans,FINISHED,ReLU_SiLU,256,Lidar5000.samples,200,64_64_,MSELoss(),0.01,"Adagrad (
+Parameter Group 0
+    differentiable: False
+    eps: 1e-10
+    foreach: None
+    initial_accumulator_value: 0
+    lr: 0.01
+    lr_decay: 0
+    maximize: False
+    weight_decay: 0
+)",Lidar,174.44081535339356
