@@ -3,4 +3,4 @@
 export PYTHONPATH=simulations/car
 export LIBGL_ALLOW_SOFTWARE=1
 
-python simulations/car/control_client/hardcoded_client.py
+(cd simulations/car/control_client/; python better_than_tesla.py)
