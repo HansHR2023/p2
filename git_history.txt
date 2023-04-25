@@ -1,0 +1,12 @@
+9968b0d add readme.md
+f022b41 implement agent.sh structure
+d97e353 update nb with tqdm
+7d8df8e add new samples for training
+49ac4d7 add mlflow runs
+d4a5bc4 add agent inside hardcoded_client
+a1de8fe add nb with model / mlflow / lightning
+6976eea add lidar and sonar model
+b9c2330 add notebooks to train model
+917d92b added git ignore
+f0c7ff6 initial project setup: simpylc folder added
+7590578 Initial commit
