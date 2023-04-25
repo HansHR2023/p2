@@ -39,6 +39,7 @@ import parameters as pm
 
 import torch
 from torch import nn
+import pickle as pkl
 
 
 class HardcodedClient:
@@ -76,8 +77,11 @@ class HardcodedClient:
     
    
     def lidarSweep (self):
-        self.model = torch.load('../../../../notebooks/data/lidar_model_1.pth')
+        # self.model = torch.load('../../../../notebooks/data/lidar_model_1.pth')
+        self.model = torch.load('../../../../notebooks/data/lidar_model_large.pth')
         
+        # self.model = pickle.load(open('../../../../notebooks/data/lidar_2.pkl', 'rb'))
+
         sample = [pm.finity for entryIndex in range (pm.lidarInputDim + 1)]
 
         for lidarAngle in range (-self.halfApertureAngle, self.halfApertureAngle):
