@@ -835,3 +835,4 @@ simpylc/simulations/car/control_client/hardcoded_client.py
 simpylc/simulations/car/control_client/default.samples
 notebooks/data/sonar_model.pkl
 notebooks/data/sonar_model_weights.pth
+git_history.
