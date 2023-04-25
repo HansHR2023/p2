@@ -14,6 +14,8 @@ In /notebooks are 5 notebooks where the model is built to train 2 models:
 - a model optimized for lidar
 - a model optimized for sonar
 
+/notebooks/Harbour_Transport_3.ipynb is the nb used for the experiments. In nb 4 and 5 are the first steps for using PyTorch Lightning in connection with ML flow. This is not finished.
+
 MLflow is used to save all experiments that otherwise would have been done in the experiment matrix. All data is saved in /notebooks/mlruns 
 
 The models are saved in /simpylc and called by agent.sh
